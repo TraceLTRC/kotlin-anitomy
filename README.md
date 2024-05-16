@@ -1,6 +1,6 @@
-# AnitomyK
+# kotlin-anitomy
 
-> AnitomyK is a Kotlin port of the C++ library [anitomy](https://github.com/erengy/anitomy).
+> kotlin-anitomy (or AnitomyK) is a Kotlin port of the C++ library [anitomy](https://github.com/erengy/anitomy).
 > Anitomy is a C++ library for parsing anime video filenames. It's accurate, fast, and simple to use.
 > All credit goes to the authors of the anitomy code.
 
@@ -18,7 +18,7 @@ repositories {
 Then, add the dependency:
 
 ```kotlin
-    implementation("com.github.traceltrc:AnitomyK:1.0")
+    implementation("com.github.TraceLTRC:kotlin-anitomy:v1.0")
 ```
 
 ## Examples
